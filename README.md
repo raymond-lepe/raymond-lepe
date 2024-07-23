@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raymond-lepe
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Cloud Data Engineering tools such as Databricks and ADF
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Loves to be artsy
